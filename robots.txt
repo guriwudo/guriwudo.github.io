@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://guriwudo.github.io/sitemap/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/kyf/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/QPo/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/MdY/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/jIZ/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/ren/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/gJf/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/eGZ/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/HtN/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/xKv/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/orB/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/yRn/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/FXT/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/JfV/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/khx/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/BPS/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/DiX/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/Jwd/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/Mla/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/Gkr/sitemap_index.guriwudo
+Sitemap: https://guriwudo.github.io/BLQ/sitemap_index.guriwudo
